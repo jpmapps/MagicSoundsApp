@@ -25,12 +25,12 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="udP-xn-WgJ"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="07v-1i-KeW"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zqz-jx-c9Y">
                                 <rect key="frame" x="20" y="343" width="374" height="49"/>
-                                <color key="backgroundColor" red="0.0" green="0.58980089430000004" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.078431372549019607" green="0.57647058823529407" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="y4c-bj-qiN"/>
                                 </constraints>
@@ -38,7 +38,7 @@
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DKJ-yQ-Ru5"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OsF-yf-hi9"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8ah-PP-OMI" userLabel="Fairy">
@@ -51,7 +51,7 @@
                                     <color key="titleColor" red="0.83741801979999997" green="0.83743780850000005" blue="0.83742713930000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TXI-MS-reW"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O4C-DI-s1I"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FHG-LU-I3N">
@@ -64,7 +64,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dLX-B1-h3e"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="P5k-tR-H1v"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EiO-q2-JYt">
@@ -77,17 +77,17 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ucc-YB-hyk"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Zcb-bn-ShK"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hYz-VU-M9Y">
                                 <rect key="frame" x="20" y="284" width="374" height="51"/>
-                                <color key="backgroundColor" red="0.32369780539999998" green="0.1063579395" blue="0.574860394" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.32549019607843138" green="0.10588235294117647" blue="0.57647058823529407" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Cosmic Crystal Glass">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="magicSoundPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mv8-1d-xxo"/>
+                                    <action selector="magicSoundsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dgR-GL-u1r"/>
                                 </connections>
                             </button>
                         </subviews>

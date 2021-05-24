@@ -37,6 +37,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		235B5DAB26498EC40000EBCF /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		23CB647426208F7A005804CD = {
 			isa = PBXGroup;
 			children = (
@@ -56,7 +63,7 @@
 		23CB647F26208F7A005804CD /* Magic Sounds App */ = {
 			isa = PBXGroup;
 			children = (
-				23CB649526209100005804CD /* Sounds */,
+				235B5DAB26498EC40000EBCF /* Sounds */,
 				23CB648026208F7A005804CD /* AppDelegate.swift */,
 				23CB648226208F7A005804CD /* SceneDelegate.swift */,
 				23CB648426208F7A005804CD /* ViewController.swift */,
@@ -66,13 +73,6 @@
 				23CB648E26208F7C005804CD /* Info.plist */,
 			);
 			path = "Magic Sounds App";
-			sourceTree = "<group>";
-		};
-		23CB649526209100005804CD /* Sounds */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
