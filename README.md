@@ -10,4 +10,4 @@ You will about the Apple Docs, StackOverflow, Connecting Multiple Buttons One IB
 
 
 
->This is a project from the iCodeLife iOS 14 Swift 5 Course, check out the full course at [www.icodelife.com/courses](https://www.icodelife.com/courses)
+>This is a project from the iCodeLife iOS 15 & Swift Course, check out the full course at [www.icodelife.com/courses](https://www.icodelife.com/courses)
